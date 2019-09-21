@@ -13,11 +13,17 @@ If you want to use colab.google.com to run this project, make sure you have this
 
 .
 +-- models
+
 +-- submissioms
+
 +-- data
+
 |    +-- prep
+
 +-- modeling.ipynb
+
 +-- feature_engineering.ipynb
+
 +-- eda.ipynb
 
 If you want to use you machine to run this project, make sure you have the prvious folder structure, but you need 
